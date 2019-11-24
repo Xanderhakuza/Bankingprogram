@@ -1,0 +1,5 @@
+C:\Users\hakuz\RiderProjects\bankingprogram\bankingprogram\bin\Debug\bankingprogram.exe
+C:\Users\hakuz\RiderProjects\bankingprogram\bankingprogram\bin\Debug\bankingprogram.pdb
+C:\Users\hakuz\RiderProjects\bankingprogram\bankingprogram\obj\Debug\bankingprogram.csprojAssemblyReference.cache
+C:\Users\hakuz\RiderProjects\bankingprogram\bankingprogram\obj\Debug\bankingprogram.exe
+C:\Users\hakuz\RiderProjects\bankingprogram\bankingprogram\obj\Debug\bankingprogram.pdb
